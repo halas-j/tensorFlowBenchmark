@@ -94,7 +94,7 @@ if __name__ == '__main__':
         plot_value_array(i, predictions[i], test_labels)
     plt.tight_layout()
     plt.show()
-    monitor_resources()
+
     img = test_images[1]
 
     print(img.shape)
