@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b19bbeea-ab66-4e8b-b3b6-669d6ce70b5d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/tensorFlowBenchmark.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tensorFlowBenchmark.iml" afterDir="false" />
+    <list default="true" id="b19bbeea-ab66-4e8b-b3b6-669d6ce70b5d" name="Changes" comment="- configured the project on a Windows machine&#10;- this commit is mainly to document the fact I have verified the dataset is loaded correctly">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -43,7 +42,7 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager">
@@ -87,6 +86,15 @@
       <option name="presentableId" value="Default" />
       <updated>1731000161247</updated>
     </task>
+    <task id="LOCAL-00001" summary="- configured the project on a Windows machine&#10;- this commit is mainly to document the fact I have verified the dataset is loaded correctly">
+      <option name="closed" value="true" />
+      <created>1731035376851</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731035376851</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,5 +107,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="- configured the project on a Windows machine&#10;- this commit is mainly to document the fact I have verified the dataset is loaded correctly" />
+    <option name="LAST_COMMIT_MESSAGE" value="- configured the project on a Windows machine&#10;- this commit is mainly to document the fact I have verified the dataset is loaded correctly" />
   </component>
 </project>
