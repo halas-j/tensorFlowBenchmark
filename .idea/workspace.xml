@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b19bbeea-ab66-4e8b-b3b6-669d6ce70b5d" name="Changes" comment="- configured the project on a Windows machine&#10;- this commit is mainly to document the fact I have verified the dataset is loaded correctly">
+    <list default="true" id="b19bbeea-ab66-4e8b-b3b6-669d6ce70b5d" name="Changes" comment="- followed the instructions from https://www.tensorflow.org/tutorials/keras/classification to include training and predictions&#10;- learned that this dataset isn't a good basis for a benchmark">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -94,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731035376851</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="- followed the instructions from https://www.tensorflow.org/tutorials/keras/classification to include training and predictions&#10;- learned that this dataset isn't a good basis for a benchmark">
+      <option name="closed" value="true" />
+      <created>1731037847888</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731037847888</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="- configured the project on a Windows machine&#10;- this commit is mainly to document the fact I have verified the dataset is loaded correctly" />
-    <option name="LAST_COMMIT_MESSAGE" value="- configured the project on a Windows machine&#10;- this commit is mainly to document the fact I have verified the dataset is loaded correctly" />
+    <MESSAGE value="- followed the instructions from https://www.tensorflow.org/tutorials/keras/classification to include training and predictions&#10;- learned that this dataset isn't a good basis for a benchmark" />
+    <option name="LAST_COMMIT_MESSAGE" value="- followed the instructions from https://www.tensorflow.org/tutorials/keras/classification to include training and predictions&#10;- learned that this dataset isn't a good basis for a benchmark" />
   </component>
 </project>

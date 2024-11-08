@@ -5,8 +5,7 @@ import tensorflow as tf
 
 import numpy as np
 import matplotlib.pyplot as plt
-
-import time as time
+import time
 
 def plot_image(i, predictions_array, true_label, img):
   true_label, img = true_label[i], img[i]
@@ -95,7 +94,7 @@ if __name__ == '__main__':
         plot_value_array(i, predictions[i], test_labels)
     plt.tight_layout()
     plt.show()
-
+    monitor_resources()
     img = test_images[1]
 
     print(img.shape)
