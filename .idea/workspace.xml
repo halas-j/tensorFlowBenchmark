@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b19bbeea-ab66-4e8b-b3b6-669d6ce70b5d" name="Changes" comment="- followed the instructions from https://www.tensorflow.org/tutorials/keras/classification to include training and predictions&#10;- learned that this dataset isn't a good basis for a benchmark">
+    <list default="true" id="b19bbeea-ab66-4e8b-b3b6-669d6ce70b5d" name="Changes" comment="- forgot to delete a reference to function that was no longer defined">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -16,18 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "halas-j"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;halas-j&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/halas-j/tensorFlowBenchmark.git",
-    "accountId": "da85d9f0-0192-4f1b-983c-bc477ff63ca3"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/halas-j/tensorFlowBenchmark.git&quot;,
+    &quot;accountId&quot;: &quot;da85d9f0-0192-4f1b-983c-bc477ff63ca3&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -37,14 +37,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="tensorFlowBenchmark" />
@@ -102,7 +102,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731037847888</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="- followed the instructions from https://www.tensorflow.org/tutorials/keras/classification to include training and predictions&#10;- learned that this dataset isn't a good basis for a benchmark">
+      <option name="closed" value="true" />
+      <created>1731038586201</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731038586201</updated>
+    </task>
+    <task id="LOCAL-00004" summary="- forgot to delete a reference to function that was no longer defined">
+      <option name="closed" value="true" />
+      <created>1731038643091</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731038643091</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +135,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="- configured the project on a Windows machine&#10;- this commit is mainly to document the fact I have verified the dataset is loaded correctly" />
     <MESSAGE value="- followed the instructions from https://www.tensorflow.org/tutorials/keras/classification to include training and predictions&#10;- learned that this dataset isn't a good basis for a benchmark" />
-    <option name="LAST_COMMIT_MESSAGE" value="- followed the instructions from https://www.tensorflow.org/tutorials/keras/classification to include training and predictions&#10;- learned that this dataset isn't a good basis for a benchmark" />
+    <MESSAGE value="- forgot to delete a reference to function that was no longer defined" />
+    <option name="LAST_COMMIT_MESSAGE" value="- forgot to delete a reference to function that was no longer defined" />
   </component>
 </project>
